@@ -11,12 +11,13 @@ This folder contains my **solutions to problems on LeetCode**, written to improv
 
 ## 🌟 Connect with Me
 - GitHub: [efatahmed2005](https://github.com/efatahmed2005)  
-- LinkedIn: [Demo LinkedIn](https://www.linkedin.com/in/efatahmed2005)  
-- LeetCode: [Demo LeetCode Profile](https://leetcode.com/efatahmed2005/)  
-- Codeforces: [Demo Codeforces Profile](https://codeforces.com/profile/efatahmed2005)  
+- LinkedIn: [efatahmed2005](https://www.linkedin.com/in/efatahmed2005)  
+- LeetCode: [efatahmed2005](https://leetcode.com/efatahmed2005/)  
+- Codeforces: [Efat_Ahmed](https://codeforces.com/profile/Efat_Ahmed)  
 
 ---
 
 > “Consistent practice is the key to mastering algorithms and problem-solving.” – *Efat Ahmed*
+
 
 
