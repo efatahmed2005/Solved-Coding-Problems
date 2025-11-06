@@ -1,10 +1,5 @@
 # 🧠 Coding Problem Solutions
 
-![GitHub last commit](https://img.shields.io/github/last-commit/efatahmed2005/coding-problems?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/efatahmed2005/coding-problems?style=for-the-badge)
-![Languages](https://img.shields.io/github/languages/count/efatahmed2005/coding-problems?style=for-the-badge)
-![License](https://img.shields.io/github/license/efatahmed2005/coding-problems?style=for-the-badge)
-
 ---
 
 ## 📘 Overview
@@ -17,13 +12,6 @@ Each solution is written with clarity, efficiency, and readability in mind — f
 
 ## 🗂️ Platforms Covered
 - [LeetCode](https://leetcode.com/) 🧩  
-- [Codeforces](https://codeforces.com/) ⚔️  
-- [CodeChef](https://www.codechef.com/) 🍴  
-- [AtCoder](https://atcoder.jp/) 🧮  
-- [GeeksforGeeks](https://www.geeksforgeeks.org/) 💡  
-- and more...
-
+- [Codeforces](https://codeforces.com/) ⚔️   
 ---
-
-## 🏗️ Repository Structure
 
